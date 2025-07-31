@@ -4,8 +4,11 @@ http://www.linkedin.com/in/sid1591
 sid1591@gmail.com (801) 513-9280 Erie, Colorado
 Engineering Leader & Full Stack Developer with 10+ years of experience delivering high-quality, user-focused software. Proven track record of leading cross-functional teams, architecting scalable systems, and driving impactful product enhancements from concept to launch. Skilled at uniting engineering, product, and design to build cohesive, innovative solutions.
 Skills
-Languages: TypeScript, JavaScript, HTML5, CSS, SASS, SCSS, SQL, C, C++, C#, Python, GraphQL, XML, JSON, PHP
-Tools/Frameworks: React, Redux Toolkit, Webpack, Material UI, Angular, Yarn, npm, Node.js, i18next, Jest, Django, React Testing Library, VS Code, Visual Studio, Git, GitHub Actions, GitLab CI/CD, TeamCity CI/CD, Figma, ConfigCat, Jira, Docker, Kubernetes, AWS, Microsoft Azure, Storybook, MSSQL
+Frontend: TypeScript, JavaScript, HTML5, CSS, SASS, SCSS, React, Redux Toolkit, Angular, Material UI, i18next, Storybook, Webpack, Vite, Yarn, npm, Figma
+Backend: Python, C#, C++, C, PHP, SQL, GraphQL, JSON, XML, Django, Node.js, Microsoft SQL Server (MSSQL)
+Cloud & CI/CD: AWS, Microsoft Azure, GCP, Docker, Kubernetes, GitLab CI/CD, GitHub Actions, TeamCity
+Testing: Jest, React Testing Library
+Developer Tools & Workflow: VS Code, Visual Studio, Git, Jira, ConfigCat
 Work Experience
 Xcellent Technology Solutions
 Modernized client facing HydroAdd3D SPA and updated backend infrastructure for the same.
@@ -26,8 +29,6 @@ Implemented reusable components to an organization-wide design system.
 Defined and revised REST APIs for integrating with MusicArchitect, our in-house music notation engine, reducing integration time by 20%, benefiting both internal and external partners.
 Refined a 30+ year-old C++ codebase for Finale, reducing the amount of legacy code by 10%, and improving performance by 18%.
 Owned and documented the process for product updates which was managed via AWS, coordinating with 3rd party vendors to ensure timely global releases.
-
-
 Energy & Geoscience Institute
 Sole developer responsible for processing massive amounts of raw data and delivered digestible results that enabled institute-critical research by petroleum geologists.
 Lead Software Developer - iCORDS and EGIConnect	Nov 2019 - Oct 2020
