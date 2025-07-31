@@ -1,98 +1,66 @@
 ﻿Sidd Gupta
-Full Stack Developer | Passionate About User-Centric Design
+Full Stack Developer
 http://www.linkedin.com/in/sid1591
-sid1591@gmail.com (801) 513-9280
-Erie, Colorado
-
+sid1591@gmail.com (801) 513-9280 Erie, Colorado
+Engineering Leader & Full Stack Developer with 10+ years of experience delivering high-quality, user-focused software. Proven track record of leading cross-functional teams, architecting scalable systems, and driving impactful product enhancements from concept to launch. Skilled at uniting engineering, product, and design to build cohesive, innovative solutions.
 Skills
-Languages: TypeScript, JavaScript, HTML5, CSS, SASS, SCSS, SQL, C, C++, C#, Lua, XML, JSON, PHP
-Tools/Frameworks: React, Redux Toolkit, Webpack, Angular, Yarn, npm, NodeJS, i18next, Jest, React Testing Library, VS Code, Visual Studio, Git, GitHub Actions, TeamCity CI/CD, Figma, ConfigCat, Jira, Docker, Kubernetes, AWS, Microsoft Azure, Storybook, MSSQL
-
+Languages: TypeScript, JavaScript, HTML5, CSS, SASS, SCSS, SQL, C, C++, C#, Python, GraphQL, XML, JSON, PHP
+Tools/Frameworks: React, Redux Toolkit, Webpack, Material UI, Angular, Yarn, npm, Node.js, i18next, Jest, Django, React Testing Library, VS Code, Visual Studio, Git, GitHub Actions, GitLab CI/CD, TeamCity CI/CD, Figma, ConfigCat, Jira, Docker, Kubernetes, AWS, Microsoft Azure, Storybook, MSSQL
 Work Experience
-
+Xcellent Technology Solutions
+Modernized client facing HydroAdd3D SPA and updated backend infrastructure for the same.
+Software Engineer - HydroAdd3D	Nov 2024 - Present
+Upgraded core app framework to meet modern security and usability standards.
+Collaborated on app usability with design, and implemented them using React, GraphQL and Material UI.
+Enhanced performance by 15% via improvements to the Django backend.
+Migrated from Create-React-App to Vite, and updated the build process in GitLab CI/CD.
 MakeMusic, Inc
 Adapted to major technology pivots while focusing on improving software architecture and processes, enabling the team’s ability to deliver better products.
-Software Engineer – Finale, Compose, and Sight Reading Studio        Apr 2021–Aug 2024
-* Led cross-functional teams as Engineering Manager, driving the implementation of key product enhancements and improving user interface components.
-* Updated Compose and Sight Reading Studio from Ember.js to React with Redux Toolkit in TypeScript.
-* Evaluated the scope, risk, and feasibility of new features in collaboration with the Product Manager to ensure successful implementation that benefited 5,000+ active monthly users.
-* Collaborated with the Product Designer to develop and integrate effective, accessible, and user-friendly UI solutions, resulting in a 10% increase in user engagement.
-* Architected app-wide systems, including a localization framework, a user notification system, and a robust error handling solution for critical failures.
-* Contributed reusable components to an organization-wide design system.
-* Defined and revised REST APIs for integrating with MusicArchitect, our in-house music notation engine, reducing integration time by 20%, benefiting both internal and external partners.
-* Refined a 30+ year-old C++ codebase for Finale, reducing legacy code by 10%, improving performance by 20%.
-* Owned and documented the process for product updates which was managed via AWS, coordinating with 3rd party vendors to ensure timely global releases.
+Software Engineer - Finale, Compose, and Sight Reading Studio	Apr 2021- Aug 2024
+Led cross-functional teams as Technical Lead, driving the implementation of key product enhancements and improving user interface components.
+Upgraded Compose and Sight Reading Studio from Ember.js to React with Redux Toolkit in TypeScript.
+Evaluated the scope, risk, and feasibility of new features in collaboration with the Product Manager to ensure successful implementation that benefited 5,000+ active monthly users.
+Collaborated with the Product Designer to develop and integrate effective, accessible, and user-friendly UI solutions, resulting in a 10% increase in user engagement.
+Architected app-wide systems, including a localization framework, a user notification system, and a robust error handling solution for critical failures.
+Implemented reusable components to an organization-wide design system.
+Defined and revised REST APIs for integrating with MusicArchitect, our in-house music notation engine, reducing integration time by 20%, benefiting both internal and external partners.
+Refined a 30+ year-old C++ codebase for Finale, reducing the amount of legacy code by 10%, and improving performance by 18%.
+Owned and documented the process for product updates which was managed via AWS, coordinating with 3rd party vendors to ensure timely global releases.
+
 
 Energy & Geoscience Institute
 Sole developer responsible for processing massive amounts of raw data and delivered digestible results that enabled institute-critical research by petroleum geologists.
-Lead Software Developer – iCORDS and EGIConnect        Nov 2019 – Oct 2020
-
-* Updated internal infrastructure to better survive catastrophic failures by replacing a monolithic on-premises server with a Docker + Kubernetes based solution to enhance reliability.
-* Assessed the OSDU platform, a data sharing platform built specifically for the energy sector, and adapted iCORDS functionality into it.
-* Migrated critical SQL functions to a JSON file-based system on AWS, improving data retrieval times by 30% for end-users.
-
-Software Developer – iCORDS        May 2016 – Nov 2019
-
-* Managed and processed data from 30,000+ offshore wells, with 2,500+ data types, for an international research community of over 200 users via SQL.
-* Optimized Microsoft Azure SQL Database, increasing query performance by 15%.
-* Utilized end user feedback to identify and implement features and fixes, in C# and JavaScript/AngularJS.
-
+Lead Software Developer - iCORDS and EGIConnect	Nov 2019 - Oct 2020
+Improved internal infrastructure to better survive catastrophic failures by replacing a monolithic on-premises server with a Docker + Kubernetes based solution to enhance reliability.
+Assessed the OSDU platform, a data sharing platform built specifically for the energy sector, and adapted iCORDS functionality into it.
+Migrated critical SQL functions to a JSON file-based system on AWS, improving data retrieval times by 30% for end-users.
+Software Developer - iCORDS	May 2016 - Nov 2019
+Managed and processed data from 30,000+ offshore wells, with 2,500+ data types, for an international research community of over 200 users via SQL.
+Optimized Microsoft Azure SQL Database, increasing query performance by 15%.
+Utilized end user feedback to identify and implement features and fixes, in C# and JavaScript/AngularJS.
 Tiered World Studios
 Built SPAs to aid low-income Hispanic families make educated lifestyle choices.
-
-Lead Engineer – Untitled Recipe Game and Padre a Padre        Sep 2015 – May 2016
-
-* Created app framework using C# in the Unity engine for an unreleased mobile AR recipe game.
-* Developed and iterated on SPA infrastructure for Padre a Padre.
-* Collaborated on design challenges and risk mitigation strategies with interdisciplinary teams.
-
+Lead Engineer - Untitled Recipe Game and Padre a Padre	Sep 2015 - May 2016
+Created app framework using C# in the Unity engine for an unreleased mobile AR recipe game.
+Developed and iterated on SPA infrastructure for Padre a Padre.
+Collaborated on design challenges and risk mitigation strategies with interdisciplinary teams.
 Retro Yeti Games
 Using new, cutting edge game engine tech, developed a game from prototype to full release on Steam.
-
-Lead Engineer – 404Sight        May 2014 – May 2015
-
-* One of the first winners of Unreal Development Grant, in 2015.
-* Optimized final product with a total reduced game size of 90% and large increase in performance within Unreal Engine 4 by iterating on the basic building blocks used throughout.
-* Integrated Valve Steamworks SDK with Unreal Engine 4.
-* Led a team of engineers through the use of consistent code workflows and reviews. 
-
-Gameplay Engineer – 404Sight        Jan 2014 – May 2014
-
-* Established pipeline/workflow for the team on Unreal Engine 4 release day, and engaged with the community during the first year of the engine's availability.
-* Collaborated with creative leads to implement and iterate core gameplay features.
-* Implemented data analytics system to allow design to analyze issues or improvements to user experience.
-
-Therapeutic Games and Apps Lab
-Collaborated on small cross-functional teams to quickly deliver complete experiences for clients.
-
-Gameplay Engineer – Arches Health Insurance (Save Your Bacon) and HSIR (researchr)        May 2014 – Dec 2014
-
-* Iterated on design of SPAs, and implemented core UI and RNG based features.
-* Developed UI systems to gather demographic information using HTML and JavaScript.
-* Created profile pages and search functionality for a social networking system aimed at medical professionals in PHP.
-
+Lead Engineer - 404Sight	May 2014 - May 2015
+Optimized final product with a total reduced game size of 90% and large increase in performance within Unreal Engine 4 by iterating on the basic building blocks used throughout.
+Integrated Valve Steamworks SDK with Unreal Engine 4.
+Led a team of engineers through the use of consistent code workflows and reviews. 
+Gameplay Engineer - 404Sight	Jan 2014 - May 2014
+Established pipeline/workflow for the team in Unreal Engine 4, and engaged with the community during the first year of the engine's availability.
+Collaborated with creative leads to implement and iterate core gameplay features.
+Implemented data analytics system to allow design to analyze issues or improvements to user experience.
 Personal Projects
-
-3D Game Engine        Aug 2013 – May 2015
-
-Fully functional 3D Game Engine made in C++ with the following features:
-* Implemented collision detection and resolution with Axis-Aligned Bounding Boxes, enabling physics-based movement.
-* Implemented 3D rendering via DirectX 9.
-* Engineered a robust memory manager that efficiently handled the creation and deletion of dynamic objects, eliminating memory leaks.
-* Created an asset pipeline to allow materials, meshes, and shaders to be loaded in on demand. 
-* Customized asset pipeline to allow creation/editing of assets and modify settings outside the engine via Lua integration.
-* Programmed messaging and debugging systems to communicate between objects and easier access to debug information.
-* Incorporated RakNet for networking support between multiple instances of the game.
-* Integrated Fmod for ambient and directional sound.
-
-AI Behaviors        Aug 2014 – Dec 2014
-
-Learned and implemented multiple AI algorithms in Unity:
-* Reynold’s steering behaviors, for autonomous movement.
-* A minimax algorithm using AI, for a game of Tic-tac-toe.
-* A capture the flag game with finite state machines and behavior trees for a human and five AI players.
-* A point collecting AI bot that gets better by utilizing a genetic algorithm.
-
+AI Behaviors	Aug 2014 - Dec 2014
+Experimented with multiple AI algorithms in Unity:
+Reynold’s steering behaviors, for autonomous movement.
+A minimax algorithm using AI, for a game of Tic-tac-toe.
+Bot driven capture the flag that has AI driven by behavior trees and finite state machines.
+A genetic algorithm to enable bots to get better at navigating to and collecting points.
 Education
-University of Utah        Aug 2013 – May 2015
-Master of Science in Computing – Entertainment Arts and Engineering
+University of Utah	Aug 2013 - May 2015
+Master of Science in Computing - Entertainment Arts and Engineering
