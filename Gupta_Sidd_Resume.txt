@@ -5,8 +5,8 @@ sid1591@gmail.com (801) 513-9280 Erie, Colorado
 Engineering Leader & Full Stack Developer with 10+ years of experience delivering high-quality, user-focused software. Proven track record of leading cross-functional teams, architecting scalable systems, and driving impactful product enhancements from concept to launch. Skilled at uniting engineering, product, and design to build cohesive, innovative solutions.
 Skills
 Frontend: TypeScript, JavaScript, HTML5, CSS, SASS, SCSS, React, Redux Toolkit, Angular, Material UI, i18next, Storybook, Webpack, Vite, Yarn, npm, Figma
-Backend: Python, C#, C++, C, PHP, SQL, GraphQL, JSON, XML, Django, Node.js, Microsoft SQL Server (MSSQL)
-Cloud & CI/CD: AWS, Microsoft Azure, GCP, Docker, Kubernetes, GitLab CI/CD, GitHub Actions, TeamCity
+Backend: Python, C#, C++, C, PHP, SQL, GraphQL, JSON, XML, Django, Node.js, MSSQL
+Cloud & CI/CD: AWS, MS Azure, GCP, Docker, Kubernetes, GitLab CI/CD, GitHub Actions, TeamCity
 Testing: Jest, React Testing Library
 Developer Tools & Workflow: VS Code, Visual Studio, Git, Jira, ConfigCat
 Work Experience
@@ -14,14 +14,14 @@ Xcellent Technology Solutions
 Modernized client facing HydroAdd3D SPA and updated backend infrastructure for the same.
 Software Engineer - HydroAdd3D	Nov 2024 - Present
 Upgraded core app framework to meet modern security and usability standards.
-Collaborated on app usability with design, and implemented them using React, GraphQL and Material UI.
+Collaborated with POs on app design, and implemented it using React, GraphQL and Material UI.
 Enhanced performance by 15% via improvements to the Django backend.
 Migrated from Create-React-App to Vite, and updated the build process in GitLab CI/CD.
 MakeMusic, Inc
 Adapted to major technology pivots while focusing on improving software architecture and processes, enabling the team’s ability to deliver better products.
-Software Engineer - Finale, Compose, and Sight Reading Studio	Apr 2021- Aug 2024
+Software Engineer - Finale, Compose, and Sight Reading Studio	Apr 2021 - Aug 2024
 Led cross-functional teams as Technical Lead, driving the implementation of key product enhancements and improving user interface components.
-Upgraded Compose and Sight Reading Studio from Ember.js to React with Redux Toolkit in TypeScript.
+Rebuilt Compose and Sight Reading Studio in React with Redux Toolkit (TypeScript).
 Evaluated the scope, risk, and feasibility of new features in collaboration with the Product Manager to ensure successful implementation that benefited 5,000+ active monthly users.
 Collaborated with the Product Designer to develop and integrate effective, accessible, and user-friendly UI solutions, resulting in a 10% increase in user engagement.
 Architected app-wide systems, including a localization framework, a user notification system, and a robust error handling solution for critical failures.
@@ -46,7 +46,7 @@ Created app framework using C# in the Unity engine for an unreleased mobile AR r
 Developed and iterated on SPA infrastructure for Padre a Padre.
 Collaborated on design challenges and risk mitigation strategies with interdisciplinary teams.
 Retro Yeti Games
-Using new, cutting edge game engine tech, developed a game from prototype to full release on Steam.
+Using new, cutting edge game engine tech, developed a game to full release on Steam.
 Lead Engineer - 404Sight	May 2014 - May 2015
 Optimized final product with a total reduced game size of 90% and large increase in performance within Unreal Engine 4 by iterating on the basic building blocks used throughout.
 Integrated Valve Steamworks SDK with Unreal Engine 4.
@@ -55,13 +55,7 @@ Gameplay Engineer - 404Sight	Jan 2014 - May 2014
 Established pipeline/workflow for the team in Unreal Engine 4, and engaged with the community during the first year of the engine's availability.
 Collaborated with creative leads to implement and iterate core gameplay features.
 Implemented data analytics system to allow design to analyze issues or improvements to user experience.
-Personal Projects
-AI Behaviors	Aug 2014 - Dec 2014
-Experimented with multiple AI algorithms in Unity:
-Reynold’s steering behaviors, for autonomous movement.
-A minimax algorithm using AI, for a game of Tic-tac-toe.
-Bot driven capture the flag that has AI driven by behavior trees and finite state machines.
-A genetic algorithm to enable bots to get better at navigating to and collecting points.
+
 Education
 University of Utah	Aug 2013 - May 2015
 Master of Science in Computing - Entertainment Arts and Engineering
